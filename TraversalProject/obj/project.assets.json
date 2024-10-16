@@ -14632,11 +14632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Elvin\\Desktop\\Projects\\TraversalProject\\TraversalProject.csproj",
+      "projectUniqueName": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\TraversalProject.csproj",
       "projectName": "TraversalProject",
-      "projectPath": "E:\\Elvin\\Desktop\\Projects\\TraversalProject\\TraversalProject.csproj",
+      "projectPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\TraversalProject.csproj",
       "packagesPath": "C:\\Users\\Etimad\\.nuget\\packages\\",
-      "outputPath": "E:\\Elvin\\Desktop\\Projects\\TraversalProject\\obj\\",
+      "outputPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -14658,14 +14658,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Elvin\\Desktop\\Projects\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "E:\\Elvin\\Desktop\\Projects\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Etimad\\Desktop\\Traversal\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "E:\\Elvin\\Desktop\\Projects\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "E:\\Elvin\\Desktop\\Projects\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Etimad\\Desktop\\Traversal\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "E:\\Elvin\\Desktop\\Projects\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "E:\\Elvin\\Desktop\\Projects\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Etimad\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

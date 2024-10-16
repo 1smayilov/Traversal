@@ -1,0 +1,7 @@
+2024-10-16T15:18:07.9762152+04:00  [INF] Now listening on: "https://localhost:7055" (d826f4b8)
+2024-10-16T15:18:07.9787192+04:00  [INF] Now listening on: "http://localhost:5269" (d826f4b8)
+2024-10-16T15:18:07.9814550+04:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-10-16T15:18:07.9819066+04:00  [INF] Hosting environment: "Development" (bc5a1a4e)
+2024-10-16T15:18:07.9819714+04:00  [INF] Content root path: "C:\Users\Etimad\Desktop\Traversal\TraversalProject" (cc26f24e)
+2024-10-16T15:18:21.9561388+04:00 0HN7DQGR6SHT1:0000001D [INF] 16.10.2024 00:00:00 Index səhifəsi çağırıldı (9dceaa34)
+2024-10-16T15:18:21.9624666+04:00 0HN7DQGR6SHT1:0000001D [ERR] Error log çağırıldı (2efc5d4f)
