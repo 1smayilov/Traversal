@@ -587,7 +587,6 @@ C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalPro
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.AssemblyInfoInputs.cache
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.AssemblyInfo.cs
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.csproj.CoreCompileInputs.cache
-C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.RazorAssemblyInfo.cache
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.RazorAssemblyInfo.cs
@@ -606,3 +605,4 @@ C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\refint\Trave
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.pdb
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.genruntimeconfig.cache
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\ref\TraversalProject.dll
+C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.MvcApplicationPartsAssemblyInfo.cs
