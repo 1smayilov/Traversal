@@ -1,4 +1,6 @@
-﻿<div class="leave-comment-form mt-5" id="reply">
+﻿@if(User.Identity.IsAuthenticated){
+
+<div class="leave-comment-form mt-5" id="reply">
     <h4 class="side-title mb-2">Rəy bildirin</h4>
     <p class="mb-4">
         İşarə qoyulmuş xanaları doldurmalısınız *
@@ -14,5 +16,10 @@
             <button class="btn btn-style btn-primary">Rəy bildir</button>
         </div>
     </form>
-</div>
+    </div>
+}
+else
+{
+    <h2>Rəy bildirmək üçün qeydiyyatdan keçin</h2>
+}
 

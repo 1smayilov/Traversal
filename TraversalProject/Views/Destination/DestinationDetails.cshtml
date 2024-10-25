@@ -10,6 +10,7 @@
 
 <body>
     <section class="w3l-about-breadcrumb text-left">
+        1
         <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
             <div class="container">
                 <h2 class="title">Tur Təfərrüatları</h2>
@@ -24,21 +25,21 @@
     <!--/blog-->
     <div class="py-5 w3l-homeblock1 text-center">
         <div class="container mt-md-3">
-            <h3 class="blog-desc-big text-center mb-4"> 
-                Your Blog Posts are Boring? Here are 9 Tips for
-                Making your Writing more Interesting
+            <h3 class="blog-desc-big text-center mb-4">
+                Sahəsində ən bacarıqlı rəhbərlərimizlə
+                ən yeni səyahət hekayələrimizi oxumalısınız!
             </h3>
             <div class="blog-post-align">
                 <div class="blog-post-img">
-                    <a href="#"><img src="~/Traversal-Liberty/assets/images/c1.jpg" alt="" class="rounded-circle img-fluid" /></a>
+                    <a href="#"><img src="@Model.Guide.Image" alt="" class="rounded-circle img-fluid" /></a>
                 </div>
                 <div class="blog-post-info">
                     <div class="author align-items-center mb-1">
-                        <a href="#">Johnson smith</a> in <a href="#url">Traversal</a>
+                        <a href="#">@Model.Guide.Name</a> in <a href="#url">@Model.Guide.Description</a>
                     </div>
                     <ul class="blog-meta">
                         <li class="meta-item blog-lesson">
-                            <span class="meta-value"> June 13, 2020 </span>
+                            <span class="meta-value">@(((DateTime)Model.Date).ToString("dd-MM-yyyy"))</span>
                         </li>
                         <li class="meta-item blog-students">
                             <span class="meta-value"> 6min read</span>
@@ -61,9 +62,9 @@
                     <p class="alphabet mb-4">
                         <span class="big-letter">A</span>@Model.Details1
                     </p>
-                   
+
                     <blockquote class="blockquote my-5">
-                        Gəzinti, Tur, Səyahət, Əyləncə 
+                        Gəzinti, Tur, Səyahət, Əyləncə
                         <footer class="blockquote-footer mt-3">
                             Smith lara
                         </footer>
@@ -85,25 +86,77 @@
                             <a href="#blog-tag">Səyahət</a>
                             <a href="#blog-tag">Gəzinti</a>
                             <a href="#blog-tag">Otel</a>
-                            <a href="#blog-tag">Yemək</a> 
+                            <a href="#blog-tag">Yemək</a>
                             <a href="#blog-tag">Tur</a>
-                            <a href="#blog-tag">Dünya</a> 
+                            <a href="#blog-tag">Dünya</a>
                         </div>
                         <div class="buttons-singles">
                             <h4>Paylaş :</h4>
                             <a href="#blog-share"><span class="fa fa-facebook" aria-hidden="true"></span></a>
                             <a href="#blog-share"><span class="fa fa-twitter" aria-hidden="true"></span></a>
                             <a href="#blog-share"><span class="fa fa-google-plus" aria-hidden="true"></span></a>
-                            <a href="#blog-share"><span class="fa fa-pinterest-p" aria-hidden=" true"></span></a>
+                            <a href="#blog-share"><span class="fa fa-pinterest-p" aria-hidden="true"></span></a>
                         </div>
                     </div>
 
                     <!--//author-card-->
-                    @await Component.InvokeAsync("_GuideDetails")
 
+
+                     <div class="author-card mt-5">
+                        <div class="row align-items-center">
+                            <div class="col-sm-3 col-6">
+                                <div>
+                                    <img src="@Model.Guide.Image" alt="" class="rounded-circle img-fluid">
+                                </div>
+                            </div>
+                            <div class="col-sm-9 mt-sm-0 mt-3">
+                                <h3 class="mb-3 title">@Model.Guide.Name</h3>
+                                <p>
+                                    @Model.Guide.Description2
+                                </p>
+                                <ul class="author-icons mt-4">
+                                    <li>
+                                        <a class="facebook" href="#url">
+                                            <span class="fa fa-facebook"
+                                                  aria-hidden="true"></span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="twitter" href="#url">
+                                            <span class="fa fa-twitter"
+                                                  aria-hidden="true"></span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="google" href="#url">
+                                            <span class="fa fa-google-plus"
+                                                  aria-hidden="true"></span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="linkedin" href="#url">
+                                            <span class="fa fa-linkedin"
+                                                  aria-hidden="true"></span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="github" href="#url">
+                                            <span class="fa fa-github"
+                                                  aria-hidden="true"></span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="dribbble" href="#url">
+                                            <span class="fa fa-dribbble"
+                                                  aria-hidden="true"></span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                     <!--//author-card-->
-
-                        @await Component.InvokeAsync("_CommentList", new {id = ViewBag.i})
+                    @await Component.InvokeAsync("_CommentList", new { id = ViewBag.i })
 
                     @await Html.PartialAsync("~/Views/Comment/AddComment.cshtml", new { id = ViewBag.destId })
 
@@ -113,9 +166,9 @@
             </div>
         </div>
 
-            <!--//blog-post-->
+        <!--//blog-post-->
     </section>
 </body>
 
-</html> 
+</html>
 

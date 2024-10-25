@@ -3,21 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.Comments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\views\\role\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\role\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\models\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\models\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\views\\admin\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:views\\admin\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,58 +41,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Comments [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.Comments.sql",
-              "ToolTip": "dbo.Comments [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-18T13:44:32.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-18T13:44:19.918Z",
+              "DocumentIndex": 2,
+              "Title": "CreateRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T08:02:23.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dbo.AspNetRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-18T13:44:07.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DestinationController.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Controllers\\DestinationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DestinationController.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Controllers\\DestinationController.cs",
-              "RelativeToolTip": "Controllers\\DestinationController.cs",
-              "ViewState": "AQIAABEAAAAgzczMzMwmwB8AAAAgAAAA",
+              "Title": "CreateRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Models\\CreateRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\CreateRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Models\\CreateRoleViewModel.cs",
+              "RelativeToolTip": "Areas\\Admin\\Models\\CreateRoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:37:26.212Z",
+              "WhenOpened": "2024-10-25T07:53:48.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-25T06:39:44.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T06:34:58.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartialSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Admin\\PartialSidebar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\PartialSidebar.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Admin\\PartialSidebar.cshtml",
+              "RelativeToolTip": "Views\\Admin\\PartialSidebar.cshtml",
+              "ViewState": "AQIAAFUAAAAANjMzMzMLwF0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T06:32:46.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:37:23.924Z",
+              "WhenOpened": "2024-10-25T06:31:55.915Z",
               "EditorCaption": ""
             }
           ]

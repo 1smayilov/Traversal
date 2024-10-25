@@ -606,3 +606,5 @@ C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalPro
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.genruntimeconfig.cache
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\ref\TraversalProject.dll
 C:\Users\Etimad\Desktop\Traversal\TraversalProject\obj\Debug\net8.0\TraversalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Etimad\Desktop\Traversal\TraversalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Etimad\Desktop\Traversal\TraversalProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
