@@ -11,5 +11,6 @@ namespace BusinessLayer.Abstract
     {
         public Destination GetDestinationWithGuide(int id);
 
+        public List<Destination> GetLAst4Destinations();
     }
 }

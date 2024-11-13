@@ -5,6 +5,7 @@ using BusinessLayer.ValidationRules;
 using DataAccessLayer.Abstract;
 using DataAccessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
+using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
 using DTOLayer.DTOs.AnnouncementDTOs;
 using EntityLayer.Concrete;
 using FluentValidation;
@@ -12,6 +13,7 @@ using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using Microsoft.AspNetCore.Mvc.Razor;
 using TraversalProject.CQRS.Handlers.DestinationHandlers;
 using TraversalProject.Mapping.AutoMapperProfile;
 using TraversalProject.Models;
@@ -24,6 +26,19 @@ namespace TraversalProject
         {
             var builder = WebApplication.CreateBuilder(args);
 
+
+            builder.Services.AddLocalization(opt =>
+            {
+                opt.ResourcesPath = "Resources";
+            });
+
+            builder.Services.AddMvc().AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix).AddDataAnnotationsLocalization();
+
+           
+
+
+
+            
             builder.Services.AddDbContext<Context>();
             builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>().AddEntityFrameworkStores<Context>();
             builder.Services.AddControllersWithViews().AddFluentValidation();
@@ -33,7 +48,11 @@ namespace TraversalProject
                 config.Filters.Add(new AuthorizeFilter(policy));
             });
 
-            builder.Services.AddMvc();
+
+            builder.Services.ConfigureApplicationCookie(options => // İstifadəçini Login ekranına atır
+            {
+                options.LoginPath = "/Login/SignIn/";
+            });                                                                    
 
             builder.Services.AddHttpClient();
 
@@ -88,7 +107,12 @@ namespace TraversalProject
 
             app.UseAuthorization();
 
-            
+            var suppertedCultures = new[] { "en", "fr", "es", "gr", "tr", "de" };
+            var localizationOptions = new RequestLocalizationOptions().SetDefaultCulture(suppertedCultures[0]).AddSupportedCultures(suppertedCultures).AddSupportedUICultures(suppertedCultures);
+            app.UseRequestLocalization(localizationOptions);
+
+
+
 
                 app.MapControllerRoute(
                     name: "areas",

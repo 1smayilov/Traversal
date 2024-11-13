@@ -390,6 +390,7 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Member\Data\" />
+    <Folder Include="Resources\Views\Shared\" />
     <Folder Include="wwwroot\pdfReports\" />
     <Folder Include="wwwroot\userimages\" />
     <Folder Include="wwwroot\soft-ui-dashboard\.git\objects\info\" />

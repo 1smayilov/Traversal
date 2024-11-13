@@ -4,11 +4,14 @@ using EntityLayer.Concrete;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace TraversalProject.Areas.Member.Controllers
+namespace TraversalCoreProje.Areas.Member.Controllers
 {
     [Area("Member")]
-
     public class ReservationController : Controller
     {
         DestinationManager destinationManager = new DestinationManager(new EfDestinationDal());
@@ -22,20 +25,18 @@ namespace TraversalProject.Areas.Member.Controllers
             _userManager = userManager;
         }
 
-        public async Task<IActionResult> MyCurrentReservation()
+        public async Task< IActionResult> MyCurrentReservation()
         {
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
             var valuesList = reservationManager.GetListWithReservationByWaitAccepted(values.Id);
             return View(valuesList);
         }
-
-        public async Task<IActionResult> MyOldReservation()
+        public async Task <IActionResult> MyOldReservation()
         {
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
             var valuesList = reservationManager.GetListWithReservationByWaitPrevious(values.Id);
             return View(valuesList);
         }
-
         public async Task<IActionResult> MyApprovalReservation()
         {
             var values = await _userManager.FindByNameAsync(User.Identity.Name);
@@ -57,12 +58,16 @@ namespace TraversalProject.Areas.Member.Controllers
         }
 
         [HttpPost]
-        public IActionResult NewReservation(Reservation reservation)
+        public IActionResult NewReservation(Reservation p)
         {
-            reservation.AppUserId = 17;
-            reservation.Status = "Təsdiq Gözləyir";
-            reservationManager.Add(reservation);
+            p.AppUserId = 4;
+            p.Status = "Onay Bekliyor";
+            reservationManager.Add(p);
             return RedirectToAction("MyCurrentReservation");
+        }
+        public IActionResult Deneme()
+        {
+            return View();
         }
     }
 }

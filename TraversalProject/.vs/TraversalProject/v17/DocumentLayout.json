@@ -3,27 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\member\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\member\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\member\\views\\destination\\getcitiessearchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\member\\views\\destination\\getcitiessearchbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\views\\role\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\views\\role\\createrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\member\\views\\dashboard\\memberdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\member\\views\\dashboard\\memberdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\areas\\admin\\models\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:areas\\admin\\models\\createroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\views\\shared\\components\\_memberlayoutlanguages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:views\\shared\\components\\_memberlayoutlanguages\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|c:\\users\\etimad\\desktop\\traversal\\traversalproject\\views\\admin\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:views\\admin\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\shared\\_memberlayout.tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\shared\\_memberlayout.tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\shared\\_memberlayout.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\shared\\_memberlayout.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\shared\\_memberlayout.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\shared\\_memberlayout.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\views\\shared\\_memberlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:views\\shared\\_memberlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:views\\information\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\information\\index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\information\\index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\information\\index.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\information\\index.es.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\information\\index.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\information\\index.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\information\\index.gr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\information\\index.gr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\resources\\views\\information\\index.tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:resources\\views\\information\\index.tr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12B4929-9FAC-4453-8FED-4544A5EDC6E2}|TraversalProject.csproj|solutionrelative:controllers\\informationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,78 +86,202 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateRole.cshtml",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Role\\CreateRole.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "DocumentIndex": 1,
+              "Title": "GetCitiesSearchByName.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Member\\Views\\Destination\\GetCitiesSearchByName.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Destination\\GetCitiesSearchByName.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Member\\Views\\Destination\\GetCitiesSearchByName.cshtml",
+              "RelativeToolTip": "Areas\\Member\\Views\\Destination\\GetCitiesSearchByName.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T08:02:23.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateRoleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Models\\CreateRoleViewModel.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\CreateRoleViewModel.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Models\\CreateRoleViewModel.cs",
-              "RelativeToolTip": "Areas\\Admin\\Models\\CreateRoleViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T07:53:48.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.AspNetRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/TraversalDb/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-25T06:39:44.162Z",
+              "WhenOpened": "2024-11-13T04:52:35.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Role\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Member\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "Areas\\Member\\Controllers\\DestinationController.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Member\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "Areas\\Member\\Controllers\\DestinationController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:52:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Shared\\Components\\_MemberLayoutLanguages\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\_MemberLayoutLanguages\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Shared\\Components\\_MemberLayoutLanguages\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\_MemberLayoutLanguages\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T06:34:58.618Z",
+              "WhenOpened": "2024-11-07T07:40:34.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Member\\Views\\Dashboard\\MemberDashboard.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Member\\Views\\Dashboard\\MemberDashboard.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Member\\Views\\Dashboard\\MemberDashboard.cshtml",
+              "RelativeToolTip": "Areas\\Member\\Views\\Dashboard\\MemberDashboard.cshtml",
+              "ViewState": "AQIAAD8AAAAAaGZmZmYkwFQAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:38:28.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PartialSidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Admin\\PartialSidebar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\PartialSidebar.cshtml",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Admin\\PartialSidebar.cshtml",
-              "RelativeToolTip": "Views\\Admin\\PartialSidebar.cshtml",
-              "ViewState": "AQIAAFUAAAAANjMzMzMLwF0AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-25T06:32:46.504Z",
-              "EditorCaption": ""
+              "Title": "_MemberLayout.tr.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Shared\\_MemberLayout.tr.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_MemberLayout.tr.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Shared\\_MemberLayout.tr.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_MemberLayout.tr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:33:31.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Areas\\Admin\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "DocumentIndex": 6,
+              "Title": "_MemberLayout.fr.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Shared\\_MemberLayout.fr.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_MemberLayout.fr.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Shared\\_MemberLayout.fr.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_MemberLayout.fr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:33:29.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_MemberLayout.en.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Shared\\_MemberLayout.en.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Shared\\_MemberLayout.en.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Shared\\_MemberLayout.en.resx",
+              "RelativeToolTip": "Resources\\Views\\Shared\\_MemberLayout.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:33:27.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_MemberLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Shared\\_MemberLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MemberLayout.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Shared\\_MemberLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MemberLayout.cshtml",
+              "ViewState": "AQIAADAAAADAZmZmZmYkwDsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:29:03.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T07:28:14.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAABQPWsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T06:31:55.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T05:59:28.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.en.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.en.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Information\\Index.en.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.en.resx",
+              "RelativeToolTip": "Resources\\Views\\Information\\Index.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:20:02.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.es.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.es.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Information\\Index.es.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.es.resx",
+              "RelativeToolTip": "Resources\\Views\\Information\\Index.es.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:20:00.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.fr.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.fr.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Information\\Index.fr.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.fr.resx",
+              "RelativeToolTip": "Resources\\Views\\Information\\Index.fr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:19:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.gr.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.gr.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Information\\Index.gr.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.gr.resx",
+              "RelativeToolTip": "Resources\\Views\\Information\\Index.gr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:19:56.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Information\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Information\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Views\\Information\\Index.cshtml",
+              "RelativeToolTip": "Views\\Information\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T05:59:37.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.tr.resx",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.tr.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Information\\Index.tr.resx",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Resources\\Views\\Information\\Index.tr.resx",
+              "RelativeToolTip": "Resources\\Views\\Information\\Index.tr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-07T07:19:54.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InformationController.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Controllers\\InformationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InformationController.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Traversal\\TraversalProject\\Controllers\\InformationController.cs",
+              "RelativeToolTip": "Controllers\\InformationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:00:21.251Z"
             }
           ]
         }
